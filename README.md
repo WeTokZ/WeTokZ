@@ -57,7 +57,7 @@
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/mathisdoriac)
 - ✉️ mathisdoriac18@gmail.com
-- 🌐 [Portfolio ou site perso](https://www.mathisdoriac.fr)
+- 🌐 [Portfolio](https://www.mathisdoriac.fr)
 
 ---
 
